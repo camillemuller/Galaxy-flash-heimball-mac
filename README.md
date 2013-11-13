@@ -1,12 +1,9 @@
-First version of my flash
+
+Pre-Alpha
 
 Requirement : 
 
 - Heimdall 1.4.0
-
-Only work for mac osx 
-
-May work at linux with someschangement....
-
+- MAC OS X
 
 UNDER-DEV NOT WORK FOR AT THIS MOMENT
